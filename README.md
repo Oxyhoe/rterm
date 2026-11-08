@@ -1,3 +1,4 @@
+<img width="1917" height="1079" alt="Screenshot from 2026-11-08 23-48-16" src="https://github.com/user-attachments/assets/c4b736c3-480d-4bf1-a79a-d8e1522a19f2" />
 
 
 # rterm
@@ -186,7 +187,7 @@ Mouse: SGR mouse reporting, wheel scroll, drag, **copy on select** and **middle-
 The panel is an accordion: one section is open at a time, so it never shows a wall of a hundred rows. Every change previews live — colours, effects and font size apply to the terminal as soon as you touch them.
 
 The **tabs** section shapes the tab strip: visibility (`auto`/`on`/`off`, same cycle as `Ctrl+Shift+B`), position (top or bottom), design (`chip`, `underline`, `minimal`), background opacity, the ✕ close button and the four colours (`active bg/fg`, `inactive fg`, `strip bg` — empty means "inherit from the theme"). Tabs are clickable in the strip, and so is their ✕.
-
+<img width="1917" height="1079" alt="Screenshot from 2026-11-08 23-48-16" src="https://github.com/user-attachments/assets/c4b736c3-480d-4bf1-a79a-d8e1522a19f2" />
 The **suggest** section turns the grey autosuggestion on or off and tints it. Inside the colour picker the whole card is clickable now: drag on the ring for the hue, inside the disc for the saturation, on the slider for the lightness.
 
 | Key | Action |
