@@ -1,6 +1,3 @@
-<img width="1917" height="1079" alt="Screenshot from 2026-11-08 23-48-16" src="https://github.com/user-attachments/assets/c4b736c3-480d-4bf1-a79a-d8e1522a19f2" />
-
-
 # rterm
 <img width="1920" height="1062" alt="Screenshot from 2026-11-08 23-42-38" src="https://github.com/user-attachments/assets/bfeb80c5-b256-40eb-8dc7-de9fad2ffb73" />
 A fast, low-memory terminal emulator with first-class image, GIF and video
