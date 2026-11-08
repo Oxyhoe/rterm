@@ -1,4 +1,5 @@
 
+
 # rterm
 <img width="1920" height="1062" alt="Screenshot from 2026-11-08 23-42-38" src="https://github.com/user-attachments/assets/bfeb80c5-b256-40eb-8dc7-de9fad2ffb73" />
 A fast, low-memory terminal emulator with first-class image, GIF and video
@@ -140,7 +141,7 @@ go back to a flat frosted panel. Both effects are toggleable from the **anim**
 and **ui** sections of the F1 panel.
 
 ## Settings panel (F1)
-
+<img width="1920" height="1080" alt="Screenshot from 2026-11-08 23-44-27" src="https://github.com/user-attachments/assets/4ca63bcc-fc7f-4687-b4b9-fe81f3baaa3e" />
 Press **F1** in any pane. Changes preview instantly; nothing touches the
 config file until you save.
 
