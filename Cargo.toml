@@ -1,0 +1,34 @@
+[package]
+name = "rterm"
+version = "0.1.0"
+edition = "2021"
+description = "Fast, low-memory terminal emulator with images, GIF and video support"
+license = "MIT"
+
+[dependencies]
+alacritty_terminal = "0.15"
+anyhow = "1.0.104"
+base64 = "0.22"
+flate2 = "1"
+ab_glyph = "0.2.32"
+fontdb = "0.23"
+gif = "0.13"
+jpeg-decoder = "0.3"
+png = "0.17"
+portable-pty = "0.8"
+serde = { version = "1.0.229", features = ["derive"] }
+softbuffer = "0.4"
+toml = "0.8"
+winit = "0.30"
+
+# Local patch: present ARGB (alpha) instead of XRGB so the compositor can
+# blend the window — enables real window transparency (`window.opacity`).
+[patch.crates-io]
+softbuffer = { path = "vendor/softbuffer" }
+
+[profile.release]
+opt-level = 3
+lto = "thin"
+codegen-units = 1
+strip = true
+
