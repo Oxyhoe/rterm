@@ -1,5 +1,6 @@
-# rterm
 
+# rterm
+<img width="1920" height="1062" alt="Screenshot from 2026-11-08 23-42-38" src="https://github.com/user-attachments/assets/bfeb80c5-b256-40eb-8dc7-de9fad2ffb73" />
 A fast, low-memory terminal emulator with first-class image, GIF and video
 support, a built-in starship-style prompt and a live settings panel.
 
